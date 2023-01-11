@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "468691756398",
+    "firebase_url": "https://bank-sampah-ec641-default-rtdb.firebaseio.com",
+    "project_id": "bank-sampah-ec641",
+    "storage_bucket": "bank-sampah-ec641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468691756398:android:14e0b2ea906b3abda38d7f",
+        "android_client_info": {
+          "package_name": "com.example.loginbanksampah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468691756398-u40dnteu1rsmp8urcife7eit298ku9dn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginbanksampah",
+            "certificate_hash": "e59733ab6beaaf4ab5528e308105ce2d3ec3ce89"
+          }
+        },
+        {
+          "client_id": "468691756398-6gdvvfvjkv3r1j5sld72jmlc0v8qf3pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR6maeGLoTPcUMgN9TceUwB3G_cx4PGsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468691756398-6gdvvfvjkv3r1j5sld72jmlc0v8qf3pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
